@@ -15,6 +15,8 @@ section {
   margin: 0;
   max-width: 100%;
   box-sizing: border-box;
+  text-align: justify;
+  text-justify: inter-word;
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
