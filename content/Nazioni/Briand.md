@@ -1,19 +1,21 @@
 
 ![[Pasted image 20231028152820.png]]
 # Scheda
-**Forma di Governo:** Monarchia Parlamentare
-**Nome effettivo:** Regno di Briand
-**Razze:**  Elfi 35%, Umani 35%, Mezzelfi 20%, Gnomi 5%, Altro 5%
-**Capitale:** Fores
-**Popolazione:** 18.000.000 ab.
-**Estensione:** 118.550 KM2
-**Densità:** 151,8 ab./KM2 
-**Capo di Stato:** Re Jacques IV
-**Capo di Governo:** Gilles Moreau
-**Fondata nel:** -124
-**PIL:** 46.800.000.000 MO (7°/23)
-**PIL pro-capite:** 2300 MO/Anno (5°/23)
-**Tasso di alfabetizzazione:** 55%
+|   |   |
+|---|---|
+|**Forma di Governo:**| Monarchia Parlamentare|
+|**Nome effettivo:**| Regno di Briand|
+|**Razze:**|  Elfi 35%, Umani 35%, Mezzelfi 20%, Gnomi 5%, Altro 5%|
+|**Capitale:**| Fores|
+|**Popolazione:**| 18.000.000 ab.|
+|**Estensione:**| 118.550 KM2|
+|**Densità:**| 151,8 ab./KM2| 
+|**Capo di Stato:**| Re Jacques IV|
+|**Capo di Governo:**| Gilles Moreau|
+|**Fondata nel:**| -124|
+|**PIL:**| 46.800.000.000 MO (7°/23)|
+|**PIL pro-capite:**| 2300 MO/Anno (5°/23)|
+|**Tasso di alfabetizzazione:**| 55%|
 
 # Storia
 ## Le origini: l’era di Re Defiànt (-128/-110)
