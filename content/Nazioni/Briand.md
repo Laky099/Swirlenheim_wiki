@@ -1,5 +1,19 @@
 
 ![[Pasted image 20231028152820.png]]
+# Scheda
+**Forma di Governo:** Monarchia Parlamentare 
+**Nome effettivo:** Regno di Briand  
+**Razze:**  Elfi 35%, Umani 35%, Mezzelfi 20%, Gnomi 5%, Altro 5%
+**Capitale:** Fores
+**Popolazione:** 18.000.000 ab.
+**Estensione:** 118.550 KM2
+**Densità:** 151,8 ab./KM2 
+**Capo di Stato:** Re Jacques IV
+**Capo di Governo:** Gilles Moreau
+**Fondata nel:** -124
+**PIL:** 46.800.000.000 MO (7°/23)
+**PIL pro-capite:** 2300 MO/Anno (5°/23)
+**Tasso di alfabetizzazione:** 55%
 
 # Storia
 ## Le origini: l’era di Re Defiànt (-128/-110)
@@ -51,7 +65,7 @@ L’evento principale dell’ultimo secolo briandino è senza dubbio la Guerra d
 
 La struttura politica di Briand, così come fu plasmata da Perroin e dai suoi consiglieri, è quanto mai particolare: il re ha effettivi poteri esecutivi e legislativi, ma non può esercitarli senza l’approvazione della _Camera del Popolo_, la _Camera_ _dei_ _Giudici_ e la _Camera_ _del_ _Clero_: questi tre organi, assieme al _Re_ e al _Governo_, formano i cinque cardini del potere briandino.  
 Il potere venne diviso fra le cinque cariche citate in precedenza: la _Camera_ _del_ _Popolo_, eletta a suffragio universale, può proporre leggi e mettere il veto a qualunque norma, ma non può mettere becco in materia giudiziaria; la _Camera_ _dei_ _Giudici_, cui si accede tramite concorso, può ribaltare qualsiasi causa giudiziaria, ma non può né proporre né mettere il veto sulle leggi approvate dagli altri organi, a meno che queste non siano contro la costituzione; la _Camera_ _del_ _Clero_ (votata dai membri dei culti) incorona il re (può persino rifiutarsi di farlo in caso questi soffrisse di gravi problematiche mentali) e può chiedere al re stesso di abdicare, ma solo qualora riuscisse a ottenere anche il consenso delle altre due camere; il Re può rifiutarsi di firmare le leggi, ma solo per un massimo di quattro volte, e può sciogliere una delle camere, ma solo con il consenso del Governo e di una delle altre camere (per la _Camera_ _del_ _Clero_ serve il consenso della _Camera_ _del_ Popolo, per la _Camera_ _dei_ _Giudici_ quello della _Camera_ _del_ _Clero_ e per sciogliere la _Camera_ _del_ _Popolo_ serve il consenso della _Camera_ _dei_ _Giudici_); infine il _Governo_ viene eletto dalla nobiltà Briandina a suffragio molto limitato, può proporre leggi e gestire la tassazione, per quanto necessiti dell’avallo di Re e Camera del Popolo.
-# Attuale situazione Politica
+## Attuale situazione Politica
 
 **Camera del Popolo**
 |   |   |   |
