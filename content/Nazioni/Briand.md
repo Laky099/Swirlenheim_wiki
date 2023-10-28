@@ -1,8 +1,8 @@
 
 ![[Pasted image 20231028152820.png]]
 # Scheda
-**Forma di Governo:** Monarchia Parlamentare 
-**Nome effettivo:** Regno di Briand  
+**Forma di Governo:** Monarchia Parlamentare
+**Nome effettivo:** Regno di Briand
 **Razze:**  Elfi 35%, Umani 35%, Mezzelfi 20%, Gnomi 5%, Altro 5%
 **Capitale:** Fores
 **Popolazione:** 18.000.000 ab.
