@@ -14,7 +14,7 @@
 |**Capo di Governo:**| Gilles Moreau|
 |**Fondata nel:**| -124|
 |**PIL:**| 46.800.000.000 MO (7°/23)|
-|**PIL pro-capite:**| 2300 MO/Anno (5°/23)|
+|**PIL pro-capite:**| 2.600 MO/Anno (5°/23)|
 |**Tasso di alfabetizzazione:**| 55%|
 
 # Storia
