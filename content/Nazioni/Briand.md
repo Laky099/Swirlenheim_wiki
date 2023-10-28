@@ -1,10 +1,14 @@
 
 ![[Pasted image 20231028152820.png]]
+
+
 # Le origini: l’era di Re Defiànt (-128/-110)
   
 
 Briand è la più vecchia fra le nazioni di **Tobrutsk**, essendosi resa indipendente quattro anni prima della fine dell’**Impero Flumeo** e avendone, insieme agli **NGV** di **Vivingrad**, causato essa stessa la fine. La civiltà briandina come la conosciamo oggi è, tuttavia, un’invenzione dell’antico impero: prima dell’arrivo flumeo, infatti, non vi vivevano che piccoli villaggi umani in eterna lotta con gli elfi dei boschi. L’Impero Flumeo, dopo aver occupato l’area montana da **Niet** e **Morenkav** a seguito dell’alleanza coi nani di **Zakav**, decise di scendere verso sud per costruire un porto a **Juliette** per commerciare (e in futuro conquistare) la costa orientale di **Elvenhart**. Per facilitarsi la conquista, stipularono un accordo con gli elfi dei boschi, che decisero di sacrificare la loro sovranità in cambio della distruzione dei villaggi umani. Gli elfi formarono delle unità militari, chiamate **Scoia’tael**, e aiutarono i flumei a scacciare i villici proto-briandini. La costruzione delle moderne città briandine venne affidata proprio agli elfi: _Irvine, Fores e Ladamoise_ portano nomi elfici proprio per questa ragione. La dominazione flumea persistette fino al -128 quando, con un voltafaccia non del tutto imprevedibile, gli Scoia’tael decisero di tradire l’impero e formare un proprio regno. La frustrazione dei guerriglieri elfici era motivata principalmente da ragioni etniche: infatti, l’Impero Flumeo aveva imposto in tutto il suo territorio il Flumeo come seconda lingua ufficiale (affiancandosi al comune), prevaricando anche l’elfico. Tuttavia, l’elfico aveva finito con l’imbastardirsi, fondendosi con il flumeo stesso: nacque quello che oggi conosciamo come briandino, una lingua parlata quanto dagli elfi, quanto dai nani, quanto dagli umani. La lingua comune finì con l’essere un motore importante per il sentimento nazionalista briandino, che aveva ormai superato le barriere razziali. Guidati dal capo degli Mithril, Defiànt I, gli eserciti briandini marciarono da **Coiren** sino a **Fores**, dove umiliarono con una vittoria fin troppo semplici i soldati del decadente impero Flumeo grazie alle incursioni della devastante cavalleria leggera degli Scoia’tael, la stessa cavalleria che ben 320 anni dopo è ancora il fiore all’occhiello dell’esercito briandino. L’impero flumeo, oramai letteralmente spezzato in due parti, non poté che sfaldarsi nel giro di pochi anni: a nord, i nani dell’NGV vivingradino reclamarono i loro territori montani, mentre a sud i feudatari di **Wirbel** ne approfittarono per autoproclamarsi re.
+
 ![[Pasted image 20231028153622.png]]
+
 Dopo l’abdicazione dell’imperatore Alexander, che decise di porre fine all’esperienza imperiale, Defiànt decise di convocare una riunione che coinvolgesse tutti i “re” o capi di stato sorti prima e durante la caduta dell’Impero: dei 19 partecipanti, solo **Marielle la Magnifica** e **Grideth Bogdanov** potevano competere con l’ex leader degli Scoia’tael per importanza e fama. Dopo oltre tre settimane  di riunione, si giunse all’arcinoto _Accordo dei Re,_ con cui venne spartito il territorio dell’ex-impero e con cui venne sancita la clausola del duello per singolar tenzone dopo i tre anni di conflitto: fu proprio Defiànt a proporre questa clausola.
 
 Il secondo obbiettivo del re briandino fu quello di sopprimere nel sangue la rivolta NGV nelle montagne a nord del paese: alcune città naniche, ispirati dal modello economico-politico della vicina Vivingrad, decisero di corazzare le loro città nelle montagne e fondare la **Repubblica NGV di Bar’Zajkt**. I nani si aspettavano di ricevere qualche forma di supporto dalla vicina Vivingrad che, invece, non gli concesse nemmeno il riconoscimento diplomatico, poiché troppo interessata a mantenere rapporti di buon vicinato con Briand. L’assedio alle città-montagne fu rapido e indolore per Re Defiànt, che dimostrò di avere non solo una forte cavalleria, ma anche delle ottime spie: stando a quanto viene riportato dai rapporti dell’epoca, le porte delle città vennero aperte quasi sempre da infiltrati, permettendo all’esercito briandino di marciare dentro le città e massacrare i ribelli con estrema facilità. Secondo molti storici, tuttavia, questa vittoria diede una sorta di senso di onnipotenza al re, che cominciò a divenire sempre più arrogante, autoritario e vanesio.
@@ -54,35 +58,19 @@ Il potere venne diviso fra le cinque cariche citate in precedenza: la _Camera_ _
 # Attuale situazione Politica
 
 **Camera del Popolo**
+|   |   |   |
+|---|---|---|
+|**Partito**|**Seggi**|**Idee Politiche**|
+|<Conservatori>Conservateurs|102|Conservatori</conservatori>|
+|<lavoristi>Movimento dei Rivoluzionari Briandini|59|Lavoristi</lavoristi>|
+|<ngv>Nous, le Gèns avec Vigueur morale|20|NGV</ngv>|
+|<rivoluzionari>Pour Notre Patrie|20|Rivoluzionari</rivoluzionari>|
+|<viola>Partito dei Popoli Briandini|20|Progressisti</Viola>|
+|<Viola>Les Républicains|15|Repubblicani</viola>|
+|<religiosi>Lega delle dee e della legge|10|Religiosi</religiosi>|
+|<ellean>Ellean|4|Ellean</ellean>|
 
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-|NGV|MRB|MRB|MRB|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|Con|
-|NGV|MRB|MRB|MRB|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|Ell|
-|NGV|MRB|MRB|MRB|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|Ell|
-|NGV|MRB|MRB|MRB|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|Ell|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|Ell|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|Rep|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|NGV|MRB|MRB|**_LDL_**|**_PPB_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|MRB|MRB|MRB|**_LDL_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|MRB|MRB|MRB|**_LDL_**|**_LDL_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|MRB|MRB|MRB|**_LDL_**|**_LDL_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|MRB|MRB|MRB|**_LDL_**|**_LDL_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-|MRB|MRB|MRB|**_LDL_**|**_LDL_**|**_Con_**|**_Con_**|**_Con_**|**_Con_**|PNP|
-
+Maggioranza Formata da Conservateurs, Partito dei Popoli Briandini, Lega delle Dee e della Legge
 **Camera del Clero**
 
 |   |   |
@@ -99,7 +87,8 @@ Il potere venne diviso fra le cinque cariche citate in precedenza: la _Camera_ _
 
   
 _Re Jacques IV,_ Re di Briand 
-Gilles Moreau, Primo Ministro di Briand_Judicaël Calengol Ximenèz,_ Ministro degli Interni  
+Gilles Moreau, Primo Ministro di Briand_
+Judicaël Calengol Ximenèz, Ministro degli Interni  
 _Eruanne Vidal, Ministra degli Esteri  
 Mathilde Schmitt, Ministra della Difesa_
 Thibaud Arnaud, Ministro del Commercio  
@@ -115,6 +104,7 @@ _Seregon Noir,_ Ministro per il clero e la religione
 # Bandiere Storiche
 
 ![[Pasted image 20231028153448.png]]
+
 **Repubblica NGV di Bar’Zajkt**
 # Stemma
 
