@@ -1,3 +1,43 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+
+.article-title h1 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #522e2c;
+}
+
+.article-title h2 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #64542f;
+}
+
+.article-title h3 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #64542f;
+}
+.article-title h4 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #627d62;
+}
+.article-title h5 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #627d62;
+}
+.article-title h6 {
+    margin: 2rem 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #627d62;
+}
