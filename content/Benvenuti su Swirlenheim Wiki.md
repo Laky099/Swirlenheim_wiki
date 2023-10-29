@@ -1,5 +1,5 @@
 ---
-title: Benvenuti su Swirlenheim Wiki.md
+title: Benvenuti su Swirlenheim Wiki
 ---
 
 
