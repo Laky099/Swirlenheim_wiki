@@ -46,13 +46,13 @@ La città di Ripsiu prosperò sotto il controllo di Dwarventrock e divenne una d
 
 Nulla di rilevante avvenne sino alla fine della II Guerra di Elvenhart. Consci del valore del canale, i vincitori (Oürug Stain, PDE, Baia dei Diamanti, Suddenelve, Drowcardh e soprattutto Nuova Goliath) premettero affinché il controllo del canale divenisse neutrale, ma si resero immediatamente conto che affidarlo alla neonata Ruhenstadt, che poco altro era che uno stato artificiale, non sarebbe stato sicuro. Ergo decisero di incaricare la Conferenza di Cirmaea di gestire il canale, ma con un alcune condizioni:
 
--       Non avrebbero potuto imporre dazi eccessivi per il passaggio
+- Non avrebbero potuto imporre dazi eccessivi per il passaggio
 
--       Non sarebbe stato concesso il passaggio ad alcuna nave da guerra
+- Non sarebbe stato concesso il passaggio ad alcuna nave da guerra
 
--       Se qualsiasi nazione avesse attaccato il canale, avrebbe ricevuto immediatamente una dichiarazione di guerra da tutte le altre firmatarie dell’accordo
+- Se qualsiasi nazione avesse attaccato il canale, avrebbe ricevuto immediatamente una dichiarazione di guerra da tutte le altre firmatarie dell’accordo
 
--       Le zone a 50 km a est e a ovest del canale sarebbero rimaste completamente demilitarizzate
+- Le zone a 50 km a est e a ovest del canale sarebbero rimaste completamente demilitarizzate
 
 Fu a queste condizioni che la Conferenza di Cirmaea (CC), Johnstone Nord, Antica Goliath, Ruhenstadt, Baia dei Diamanti, Nuova Goliath, PDE, Suddenelve e Oürug Stain firmarono il _Trattato di Biske_, che sancì, per altro, la definitiva conclusione della _II Guerra di Elvenhart_. Tre anni dopo, nel +178, i paesi della CC decisero di firmare un accordo con il quale concedevano la piena auto-amministrazione alla _Città di Ripsiu_, concedendole la possibilità di riorganizzarsi come meglio credeva (a patto di rispettare i criteri democratici) e di gestire liberamente le entrate dovute al canale, aspetto che ha portato ulteriore prosperità alla città. La semi-indipendenza ottenuta senza sforzo nel +179 la rende lo Stato più piccolo al mondo, cosa che per qualche motivo sembra divertire particolarmente gli abitanti del luogo.
 
